@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCalendar</string>
+    <string name="bt_home">Home</string>
+    <string name="bt_task">タスク</string>
+    <string name="bt_plan">一般</string>
+    <string name="bt_timetable">時間割</string>
+    <string name="bt_job">バイト</string>
+</resources>
